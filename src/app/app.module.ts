@@ -4,10 +4,14 @@ import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
+import { BucketComponent } from './bucket/bucket.component';
+import { WorkflowComponent } from './workflow/workflow.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    BucketComponent,
+    WorkflowComponent
   ],
   imports: [
     BrowserModule,

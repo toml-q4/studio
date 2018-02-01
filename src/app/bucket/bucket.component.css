@@ -1,0 +1,21 @@
+.navigation {
+    margin-top: 10px;
+}
+
+.actions {
+    float: right;
+}
+
+.action {
+    display: inline;
+    margin: 0 10px;
+    color: #3498db;
+}
+
+.headline {
+    font-size: 28px;
+}
+
+.subheadline {
+    color: #777777;
+}

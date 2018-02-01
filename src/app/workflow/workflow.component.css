@@ -1,0 +1,30 @@
+.workflow {
+    display: inline;
+}
+
+.workflow-type {
+    display: inherit;
+    width: 22px;
+}
+
+.workflow-name {
+    display: inherit;
+    font-weight: bold;
+}
+
+.workflow-details {
+    display: block;
+    margin-left: 22px;
+    font-size: 14px;
+    color: #777;
+}
+
+.detail {
+    display: inline;
+    margin-right: 10px;
+}
+
+.actions {
+    float: right;
+    color: #3498db;
+}
